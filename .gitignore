@@ -1,6 +1,7 @@
 # ---> Python
 
 **/*LOCAL*
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
